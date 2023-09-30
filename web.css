@@ -1,0 +1,14 @@
+h1{
+    padding-top: 50px;
+}
+p{
+    width : 1000px;
+    align-items: center;
+    display: flex;
+    padding-bottom: 10px;
+    margin-left: 12%;
+    margin-top: 10px;
+}
+.bio{
+    padding-top: 100px;
+}
